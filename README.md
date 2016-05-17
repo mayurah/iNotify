@@ -3,7 +3,7 @@ Helps push notification (currently on OSX via CLI)
 
 
 ## Bash alias
-* Edit .bash_alias and add below
+* Edit ~/.bash_alias and append 
 	``alias ipush='<path to inotify>/iNotify <title> <message>'``
 
 ## TODO
