@@ -2,5 +2,5 @@
 Helps push notification (currently on OSX via CLI)
 
 
-# TODO
+## TODO
 * enhance bash script
